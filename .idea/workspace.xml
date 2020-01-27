@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbf9fd9a-9b8a-47bc-b713-aca4f867f822" name="Default Changelist" comment="" />
+    <list default="true" id="cbf9fd9a-9b8a-47bc-b713-aca4f867f822" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CodingPractices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodingPractices.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoinChange.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +42,24 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoinChange" />
+      <module name="CodingPractices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoinChange" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580090371094</updated>
       <workItem from="1580090373532" duration="782000" />
+      <workItem from="1580091621171" duration="1540000" />
     </task>
     <servers />
   </component>
@@ -56,9 +80,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="863" y="190" key="#Project_Structure" timestamp="1580092867738">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="863" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1580092867738" />
     <state x="689" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580091692806">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="689" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580091692806" />
+    <state x="284" y="141" key="SettingsEditor" timestamp="1580093158259">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="284" y="141" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1580093158259" />
   </component>
 </project>
