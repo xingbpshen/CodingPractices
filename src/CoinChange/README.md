@@ -1,2 +1,2 @@
 # Coin change question
-Suppose we have 2, 5, 7 valued coins and we want to obtain the sum of 27 using these coins, fewer coins used is better! Print out number of coins you will use, if cannot, print out -1.
+Suppose we have 2, 5, 7 valued coins and we want to obtain the sum of 27 using these coins, fewer coins used is better! Print out the number of coins you will use, if cannot, print out -1.
