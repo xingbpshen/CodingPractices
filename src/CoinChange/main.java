@@ -30,7 +30,7 @@ public class main {
 
     public static void main(String[] args) {
         int[] A = {2, 5, 7};
-        int M = 27;
+        int M = 48;
         System.out.println(coinChange(A, M));
     }
 }
