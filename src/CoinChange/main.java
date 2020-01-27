@@ -1,4 +1,6 @@
-public class CoinChange {
+package CoinChange;
+
+public class main {
                           // {2, 5, 7}   // 27
     public static int coinChange(int[] A, int M){
         int[] f = new int[M + 1];
