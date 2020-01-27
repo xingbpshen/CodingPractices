@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf9fd9a-9b8a-47bc-b713-aca4f867f822" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CodingPractices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodingPractices.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoinChange/COINCHANGE.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +27,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1WxTiEfJb1FOl7d4FNzuGcG1MVA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -73,6 +72,7 @@
       <updated>1580090371094</updated>
       <workItem from="1580090373532" duration="782000" />
       <workItem from="1580091621171" duration="1540000" />
+      <workItem from="1580093170878" duration="412000" />
     </task>
     <servers />
   </component>
